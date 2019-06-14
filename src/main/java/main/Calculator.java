@@ -29,9 +29,7 @@ public class Calculator {
             default:
                 System.out.println("Illigal Operation");
 
-
         }
-
     }
     public static int add(int x, int y)
     {
