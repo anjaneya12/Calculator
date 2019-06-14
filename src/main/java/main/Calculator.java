@@ -52,7 +52,7 @@ public class Calculator {
     public static int mult(int x, int y)
     {
     	int result=0;
-//      write your code here
+
     	result = x*y;
     	return result;
     }
