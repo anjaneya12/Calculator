@@ -28,14 +28,13 @@ public class Calculator {
             break;
             default:
                 System.out.println("Illigal Operation");
-
         }
     }
     public static int add(int x, int y)
     {
     	int result=0; 
     	result = x+y;
-    	
+    
         return result;
     }
     public static int sub(int x, int y)
